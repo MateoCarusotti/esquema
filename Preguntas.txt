@@ -1,5 +1,0 @@
-1- Como cambiar forma de bordes?
-2- La estetica de las pestañas debe ser similar/igual entre todas no ono tiene importancia?
-3- Si en una pestaña se abre otra, en se momento tendria dos pestañas a la vez o solo deberia tener una?
-4- En la pestaña de inicial donde estan los perfiles, se puede mostrar mas info ademas de la foto de usuarios?
-5- Como saber que opcion toque dentro de la ListBox
